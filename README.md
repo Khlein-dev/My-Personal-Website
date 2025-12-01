@@ -1,6 +1,13 @@
 # First HTML Project
 High fidelity website with only html components
 
+# Features
+- Main Page
+- About ME
+- Hobbies
+- Family
+- Contacts
+
 # PREVIEW
 
 <p align="center">
