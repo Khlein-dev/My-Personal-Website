@@ -6,7 +6,8 @@ High fidelity website with only html components
 - About ME
 - Hobbies
 - Family
-- Contacts
+- Featured Events & Highlights
+- Links & Contacts
 
 # PREVIEW
 
